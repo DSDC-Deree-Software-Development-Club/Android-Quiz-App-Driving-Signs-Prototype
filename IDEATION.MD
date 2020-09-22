@@ -2,45 +2,14 @@
 
 ## UI:
 
-> take test by category
+- take test by category
 
-> take test randomly
+- take test randomly
 
 - how many questions?
 
-> Challenge mode
+- Challenge mode
 
-- what difficulty?
+  - what difficulty?
 
-> about
-
-</br>
-
-<hr>
-## auth:
-
-- oauth2
-- our login/signup system
-
-</br>
-</br>
-
-<hr>
-
-## authorization:
-
-jwt
-
-</br>
-</br>
-<hr>
-
-# Entities:
-
-> Categories
-
-> Questions
-
-> User
-
-> User's settings
+- about

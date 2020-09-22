@@ -12,4 +12,4 @@
 
   - what difficulty?
 
-- about
+- about app

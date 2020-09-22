@@ -6,7 +6,7 @@
 
 - take test randomly
 
-- how many questions?
+  - how many questions?
 
 - Challenge mode
 

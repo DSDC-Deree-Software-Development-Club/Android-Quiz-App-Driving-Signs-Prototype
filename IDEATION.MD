@@ -1,9 +1,46 @@
-quiz app
+# quiz app
 
-questions
-have belong to categories
+## UI:
 
-ui:
-	take test by category
-	take test randomly
-		how many questions? 
+> take test by category
+
+> take test randomly
+
+- how many questions?
+
+> Challenge mode
+
+- what difficulty?
+
+> about
+
+</br>
+
+<hr>
+## auth:
+
+- oauth2
+- our login/signup system
+
+</br>
+</br>
+
+<hr>
+
+## authorization:
+
+jwt
+
+</br>
+</br>
+<hr>
+
+# Entities:
+
+> Categories
+
+> Questions
+
+> User
+
+> User's settings

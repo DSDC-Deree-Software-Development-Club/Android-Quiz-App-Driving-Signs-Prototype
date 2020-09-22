@@ -1,8 +1,11 @@
-# quiz app
+# UI:
 
-## UI:
+## Main menu:
 
-- take test by category
+- take test by decks
+
+  - select decks?
+  - random order?
 
 - take test randomly
 
@@ -12,4 +15,6 @@
 
   - what difficulty?
 
-- about app
+- Test Favorites
+
+- About this App
